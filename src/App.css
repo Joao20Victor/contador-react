@@ -1,0 +1,30 @@
+*{
+    margin: 0;    
+    box-sizing: border-box;   
+    place-items: center;
+    
+}
+body{
+    min-height: 100vh;
+    display: grid;
+    background-color: #4b1f1c;
+       
+}
+div{
+    background-color: #611912a1;
+    border-radius: 10%;
+    padding: 10%;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger; 
+    
+    
+}
+button{
+    border-radius: 6px;
+    background-color: #AD2A21 ;
+}
+button:hover{
+    background-color: black;
+    color: #AD2A21;
+}
